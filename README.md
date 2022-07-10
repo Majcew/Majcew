@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krzysztof Dragon</h1>
-<h3 align="center">I'm currently a student of the Silesian University of Technology trying to get my Master's degree in Computer Science. For my Master's degree project I'm writing about the reduction of fuzzy rules in fuzzy system based application and developing a algorithm to determinate the output of fuzzy rules, without any knowledge in the tested subject..</h3>
+<h3 align="center">I'm currently a student of the Silesian University of Technology trying to get my Master's degree in Computer Science. For my Master's degree project I'm writing about the reduction of fuzzy rules in fuzzy system based application and developing a algorithm to determinate the output of fuzzy rules, without any prior knowledge in the tested subject.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majcew&label=Profile%20views&color=0e75b6&style=flat" alt="majcew" /> </p>
 
