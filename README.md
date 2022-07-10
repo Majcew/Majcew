@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majcew&label=Profile%20views&color=0e75b6&style=flat" alt="majcew" /> </p>
 
-- 🌱 I’m currently learning **Angular, Python (mainly data science)**
+- 🌱 I’m currently learning **Angular, Python (mainly data science) and Javascript/Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Majcew/](https://github.com/Majcew/)
 
