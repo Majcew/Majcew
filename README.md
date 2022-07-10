@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Majcew/](https://github.com/Majcew/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img> krzysztof.dragon98@gmail.com</h3>
 <p align="left">
 </p>
 
